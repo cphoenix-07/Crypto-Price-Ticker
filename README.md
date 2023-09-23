@@ -13,7 +13,7 @@ npm install -g expo-cli
 1. Create a new Expo project by running the following command:
 
 ```bash
-expo init RealTimePriceTicker
+npx expo init RealTimePriceTicker
 ```
 
 Follow the prompts to choose a template and project settings.
@@ -32,32 +32,28 @@ cd RealTimePriceTicker
 npm install axios react-native-paper
 ```
 
-**Step 3: Replace App.js Content**
-
-Replace the content of the `App.js` file in your project directory with the updated code provided earlier.
-
-**Step 4: Start the Expo Development Server**
+**Step 3: Start the Expo Development Server**
 
 Start the Expo development server by running:
 
 ```bash
-expo start
+npx expo start
 ```
 
 This will open the Expo DevTools in your web browser and display a QR code.
 
-**Step 5: Run the App on a Device or Emulator**
+**Step 4: Run the App on a Device or Emulator**
 
 - To run the app on your physical device, install the "Expo Go" app from your device's app store, scan the QR code in the Expo DevTools, and the app will load on your device.
 - To run the app on an Android or iOS emulator, follow the instructions provided by Expo for your specific platform.
 
-**Step 6: Demonstrate Real-Time Updates**
+**Step 5: Demonstrate Real-Time Updates**
 
 1. With the app running on your device or emulator, you will see the Real-Time Price Ticker on the home screen.
 2. The app will automatically fetch and display the latest cryptocurrency price data.
 3. The prices will be updated every 60 seconds, as specified in the code.
 
-**Step 7: Demo Video/GIF**
+**Step 6: Demo Video/GIF**
 
 ![image](https://github.com/cphoenix-07/Crypto-Price-Ticker/assets/71826054/7fdeea4a-2f97-4552-919e-a1057ec52251)
 
