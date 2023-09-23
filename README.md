@@ -10,10 +10,10 @@ If you haven't already installed Expo CLI, you can install it globally with npm:
 npm install -g expo-cli
 ```
 
-1. Create a new Expo project by running the following command:
+1. Install the required node moudules by running the following command:
 
 ```bash
-npx expo init RealTimePriceTicker
+npm install
 ```
 
 Follow the prompts to choose a template and project settings.
