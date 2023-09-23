@@ -59,9 +59,7 @@ This will open the Expo DevTools in your web browser and display a QR code.
 
 **Step 7: Demo Video/GIF**
 
-Create a demo video or GIF to showcase the real-time updates as mentioned in the previous response.
-
-Please note that you can use Expo's built-in development tools to share the project with others using an Expo share link. This allows others to view and interact with your app directly on their devices.
+![image](https://github.com/cphoenix-07/Crypto-Price-Ticker/assets/71826054/7fdeea4a-2f97-4552-919e-a1057ec52251)
 
 To generate an Expo share link, follow these steps:
 
